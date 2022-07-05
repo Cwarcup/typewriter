@@ -1,5 +1,5 @@
 // Implement the logic to have each letter delay its appearance by 50ms (or so) longer than the previous letter.
-const sentence = "hello there from Curtis Warcup";
+const sentence = "hello there from lighthouse labs";
 
 let index = 0;
 
